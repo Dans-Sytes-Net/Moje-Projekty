@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615820969 source:f:\projekty\dans sytes net\programy-c\losowanie_liczb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
